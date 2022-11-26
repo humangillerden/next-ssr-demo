@@ -1,0 +1,49 @@
+{
+    "news": [
+        {
+            "id": 1,
+            "title": "News Article 1",
+            "description": "Description 1",
+            "category": "sports"
+        },
+        {
+            "id": 2,
+            "title": "News Article 2",
+            "description": "Description 2",
+            "category": "politics"
+        },
+        {
+            "id": 3,
+            "title": "News Article 3",
+            "description": "Description 3",
+            "category": "sports"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Product 1",
+            "categoryid": 2
+        },
+        {
+            "id": 2,
+            "title": "Product 2",
+            "categoryid": 2
+        },
+        {
+            "id": 3,
+            "title": "Product 3",
+            "categoryid": 1
+        },
+        {
+            "id": 4,
+            "title": "Product 4",
+            "categoryid": 1
+        },
+        {
+            "id": 5,
+            "title": "Product 5",
+            "categoryid": 3
+        }
+    ]
+}
